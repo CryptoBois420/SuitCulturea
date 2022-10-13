@@ -39,7 +39,8 @@ body {
 	color: rgb(224, 188, 28);
 }
 .uvod {
-	margin: 0 auto;
+  size: auto;
+	style="width:100%; height:50vw”;
 	text-align: center;
 	background-color: rgb(236, 222, 20);		
 	opacity: 0.6;
@@ -143,4 +144,8 @@ html {
     padding-top:50px;
     text-align: center;
 
+  }
+  
+  .order{
+    style="width:100%; height:50vw”
   }
